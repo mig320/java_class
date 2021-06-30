@@ -11,9 +11,7 @@ package ejercicios;
  */
 public class Ejercicios {
 
-    /**
-     * @param args the command line arguments
-     */
+    
     public static void main(String[] args) {
         boolean conditionstatus = false ;
         int contador = 0;
@@ -27,9 +25,13 @@ public class Ejercicios {
             
             }
             
-            System.out.println(contador);
+           
             contador++;
-    
+            
+            
+            System.out.println(contador);
+            
+            
     
     }
            
